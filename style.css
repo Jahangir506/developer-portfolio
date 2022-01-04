@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
 }
 .orange-color{
     color:yellow;
@@ -16,8 +16,11 @@ h2{
     margin-bottom: 10%;
 }
 .half-width{
-    width: 50%;
+    width: 70%;
     padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
